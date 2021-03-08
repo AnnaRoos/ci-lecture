@@ -14,7 +14,7 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"A test\"",
-    "author": "Annapanna"
+    "author": "echo \"Annapanna\""
   },
   "dependencies": {
     "gatsby": "^3.0.1",
